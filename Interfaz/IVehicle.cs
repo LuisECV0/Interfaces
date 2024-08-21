@@ -1,7 +1,9 @@
-﻿
-public interface IVehicle
+﻿namespace InterfazExample
 {
-    void StartEngine();
-    void StopEngine();
-    int GetSpeed();
+    public interface IVehicle
+    {
+        void StartEngine();
+        void StopEngine();
+        int GetSpeed();
+    }
 }

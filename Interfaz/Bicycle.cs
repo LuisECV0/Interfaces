@@ -2,18 +2,18 @@
 
 namespace InterfazExample
 {
-    public class Car : IVehicle
+    public class Bicycle : IVehicle
     {
         private int speed = 0;
 
         public void StartEngine()
         {
-            Console.WriteLine("El motor del coche arrancó.");
+            Console.WriteLine("La bicicleta no tiene motor, ¡pero puedes empezar a pedalear!");
         }
 
         public void StopEngine()
         {
-            Console.WriteLine("El motor del coche se detuvo.");
+            Console.WriteLine("La bicicleta ha dejado de pedalear.");
         }
 
         public int GetSpeed()
