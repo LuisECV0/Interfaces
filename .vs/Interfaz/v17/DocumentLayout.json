@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\luisc\\source\\repos\\Interfaz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF8562CF-61A5-4768-8B75-6A5A26CD9E97}|Interfaz\\Interfaz.csproj|c:\\users\\luisc\\source\\repos\\interfaz\\interfaz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF8562CF-61A5-4768-8B75-6A5A26CD9E97}|Interfaz\\Interfaz.csproj|solutionrelative:interfaz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF8562CF-61A5-4768-8B75-6A5A26CD9E97}|Interfaz\\Interfaz.csproj|c:\\users\\luisc\\source\\repos\\interfaz\\interfaz\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF8562CF-61A5-4768-8B75-6A5A26CD9E97}|Interfaz\\Interfaz.csproj|solutionrelative:interfaz\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF8562CF-61A5-4768-8B75-6A5A26CD9E97}|Interfaz\\Interfaz.csproj|c:\\users\\luisc\\source\\repos\\interfaz\\interfaz\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF8562CF-61A5-4768-8B75-6A5A26CD9E97}|Interfaz\\Interfaz.csproj|solutionrelative:interfaz\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\luisc\\source\\repos\\Interfaz\\Interfaz\\Car.cs",
+              "RelativeDocumentMoniker": "Interfaz\\Car.cs",
+              "ToolTip": "C:\\Users\\luisc\\source\\repos\\Interfaz\\Interfaz\\Car.cs",
+              "RelativeToolTip": "Interfaz\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T04:53:49.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IVehicle.cs",
+              "DocumentMoniker": "C:\\Users\\luisc\\source\\repos\\Interfaz\\Interfaz\\IVehicle.cs",
+              "RelativeDocumentMoniker": "Interfaz\\IVehicle.cs",
+              "ToolTip": "C:\\Users\\luisc\\source\\repos\\Interfaz\\Interfaz\\IVehicle.cs",
+              "RelativeToolTip": "Interfaz\\IVehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T04:52:04.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\luisc\\source\\repos\\Interfaz\\Interfaz\\Program.cs",
+              "RelativeDocumentMoniker": "Interfaz\\Program.cs",
+              "ToolTip": "C:\\Users\\luisc\\source\\repos\\Interfaz\\Interfaz\\Program.cs",
+              "RelativeToolTip": "Interfaz\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T04:51:04.793Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
